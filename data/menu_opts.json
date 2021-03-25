@@ -1,0 +1,26 @@
+{
+  "nombreApp": "Componentes",
+  "rutas": [
+    {
+      "ruta" : "alert",
+      "icon" : "add_alert",
+      "texto" : "Alertas",
+      "subTexto" : "Hello, STRANGER!!",
+      "description" : "StarWars is a Movie about MOvies"
+    },
+    {
+      "ruta" : "avatar",
+      "icon" : "accessibility",
+      "texto" : "Avatar",
+      "subTexto" : "Great to see you!",
+      "description" : "Cheech and Chong is a scary Moview "
+    },
+    {
+      "ruta" : "card",
+      "icon" : "folder_open",
+      "texto" : "Cars - Tarjetas",
+      "subTexto" : ";), heeeee, heeee",
+      "description" : "How High is an educational film about Harvard Students"
+    }
+  ]
+}
